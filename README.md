@@ -53,10 +53,3 @@ The study evaluates **Regularized Regression**, **Random Forest**, and **LightGB
 
 ---
 
-## Implications
-
-Machine learning imputation can significantly reduce survey length while preserving key response patterns.  
-However, uneven recovery across ideological subgroups suggests that **imputation favors majority views**, which may bias downstream analyses.  
-Future work should combine model-based and principled multiple-imputation approaches to mitigate these asymmetries and improve fairness in survey reconstruction.
-
----
